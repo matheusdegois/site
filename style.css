@@ -1,5 +1,4 @@
-@import
-url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 *{
 
@@ -70,13 +69,13 @@ font-size: 24px;
 display: flex;
 justify-content: center;
 gap: 16px;
-border: 2px solid #22D4FD
+border: 2px solid #22D4FD;
 width: 378px;
 text-align: center;
 border-radius: 8px;
 font-size: 24px;
 font-weight: 600;
-padding: 21.5px0.;
+padding: 21.5px0;
 text-decoration: none;
 color: #F6F6F6;
 font-family: 'Montserrat', sans-serif;
@@ -89,11 +88,11 @@ background-color: #272727;
 }
 
 .rodape{
-color: H000000;
+color: 000000;
 background-color: #22D4FD;
 padding: 24px;
 text-align: center;
-font-familv: 'Montserrat', 'sans-serif'
+font-family: 'Montserrat', 'sans-serif';
 font-size: 24px;
 font-weight: 400;
 
